@@ -126,15 +126,22 @@ To become an AI Engineer who builds scalable and impactful intelligent products.
 
 # 🏆 Achievements
 
-🥇 TechSprint Hackathon 2025 — **Top 5 Finalist**
+🏆 **JEE Main Qualified**
 
-🎖️ NCC Gold Medal for Excellence in Media & Communication
+🎓 **CUET Qualified**
 
-🏕️ Active NCC Cadet
+🔬 **IAT & IISER** — AIR **11,469**
 
-🏆 Qualified JEE Main
+📜 **NPTEL Certified**
 
-💻 Passionate Open Source Learner
+🎖️ **NCC Gold Medal** — Excellence in Media & Communication
+
+🥇 **TechSprint Hackathon 2025** — **Top 5 Finalist**
+
+🌍 **GirlScript Summer of Code (GSSoC)** — **Top 6% Globally** | Global Rank **#2,466**
+
+💻 **Open Source Contributor & Learner**
+
 
 ---
 
@@ -143,7 +150,6 @@ To become an AI Engineer who builds scalable and impactful intelligent products.
 - ✅ NPTEL – Computer Networks
 - ✅ Google Cloud Skills Boost
 - ✅ Cisco Networking Academy
-- ✅ Git & GitHub
 - ✅ Machine Learning Fundamentals
 
 ---
