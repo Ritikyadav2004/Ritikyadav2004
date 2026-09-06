@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ritik Yadav</h1>
 
 <h3 align="center">
-Computer Science Engineering Student • AI & Machine Learning Enthusiast • Full Stack Developer • Data Science Learner
+<!-- Computer Science Engineering Student • AI & Machine Learning Enthusiast • Full Stack Developer • Data Science Learner -->
+  B.Tech CSE '27 | Open Source Contributor | GSSoC'26 — Top 6% Globally
 </h3>
 
 <p align="center">
